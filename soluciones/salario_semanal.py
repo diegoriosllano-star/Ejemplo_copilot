@@ -3,7 +3,7 @@ Planteamiento del problema:
 Calcula el salario semanal de 
 un trabajador. Las horas 
 mayores a 40 se pagan al 
-doble
+triple de la tarifa normal. 
 '''
 
 # PROBLEMA: calcular salario semanal
@@ -16,7 +16,7 @@ doble
 #       salario = horas * pago
 # 4. Si no:
 #       extra = horas - 40
-#       salario = (40 * pago) + (extra * pago * 2)
+#       salario = (40 * pago) + (extra * pago * 3)
 # 5. Mostrar salario
 
 #contrato de funciones 
@@ -38,7 +38,7 @@ doble
 #casos de prueba
 # Caso 1: 45 horas a $10
 #entrada: horas=45, pago=10
-#salida: salario=450    
+#salida: salario= 550  
 
 #Caso 2: 40 horas a $10
 #entrada: horas=40, pago=10 
@@ -46,7 +46,7 @@ doble
 
 #caso 3: 50 horas a $12
 #entrada: horas=50, pago=12
-#salida: salario=720
+#salida: salario= 840
 
 # Restricciones:
 # - no imprimir dentro de la funcion de calcularSalario
@@ -66,7 +66,7 @@ def calcularSalario(horas, pago):
         salario = horas * pago
     else:
         extra = horas - 40
-        salario = (40 * pago) + (extra * pago * 2)
+        salario = (40 * pago) + (extra * pago * 3)
     return salario
 
 

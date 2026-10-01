@@ -1,0 +1,13 @@
+(.venv) PS C:\Users\Diego\OneDrive\Escritorio\programacion\practica-ejemplo-copilot> python main.py
+Ingrese las horas trabajadas: 45
+Ingrese el pago por hora: 10
+El salario semanal es: 550.0
+(.venv) PS C:\Users\Diego\OneDrive\Escritorio\programacion\practica-ejemplo-copilot> python main.py
+Ingrese las horas trabajadas: 40
+Ingrese el pago por hora: 10
+El salario semanal es: 400.0
+(.venv) PS C:\Users\Diego\OneDrive\Escritorio\programacion\practica-ejemplo-copilot> python main.py
+Ingrese las horas trabajadas: 50
+Ingrese el pago por hora: 12
+El salario semanal es: 840.0
+(.venv) PS C:\Users\Diego\OneDrive\Escritorio\programacion\practica-ejemplo-copilot> 
