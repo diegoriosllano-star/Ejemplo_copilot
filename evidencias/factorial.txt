@@ -1,0 +1,8 @@
+MENÚ DE OPCIONES
+1. Calcular salario semanal
+2. Calcular expresión con raíz
+3. Calcular aproximación de factorial
+4. Salir
+Ingrese una opción: 3
+Ingrese el valor de n: 5
+La aproximación de n! es: 118.01916795759006

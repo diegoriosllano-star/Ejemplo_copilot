@@ -1,0 +1,10 @@
+MENÚ DE OPCIONES
+1. Calcular salario semanal
+2. Calcular expresión con raíz
+3. Calcular aproximación de factorial
+4. Salir
+Ingrese una opción: 2
+Ingrese el valor de a: 2
+Ingrese el valor de b: 20
+Ingrese el valor de c: 5
+El valor de x es: 0.8
